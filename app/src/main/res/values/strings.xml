@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="get_joke">Get Joke</string>
+    <string name="error_internet">No internet connection!</string>
+    <string name="no_joke">No Joke is available.</string>
+    <string name="loading">Loading...</string>
+</resources>
